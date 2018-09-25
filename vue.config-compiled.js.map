@@ -1,0 +1,1 @@
+{"version":3,"sources":["vue.config.js"],"names":[],"mappings":"AAAA,OAAO,OAAP,GAAiB;AAChB,kBAAW;AACJ,oBAAM,IADF;AAEJ,sBAAQ,I;AAFJ;AADK,CAAjB","file":"vue.config-compiled.js","sourcesContent":["module.exports = {\r\n\tdevServer: {\r\n        port: 9002,\r\n        inline: true//实时刷新\r\n    }\r\n};"]}
